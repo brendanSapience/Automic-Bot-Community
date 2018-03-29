@@ -1,7 +1,7 @@
-# Automic-Bot
-Bot using the Automic Rest API
+# Automic-Bot-Community
+Bot using the unofficial Community Rest API (for Automic)
 
- *Target*: **Automic Engine v12.1 and Official Rest API**
+ *Target*: **Automic Engine v10+ and unofficial Rest API**
 
  *Chat App*: This bot is built on Hubot and for **Slack** specifically, however it can be ported easily to any other chat app
 
@@ -18,5 +18,5 @@ Bot using the Automic Rest API
   * Ask for the Release Notes (**"get release notes"**) to see the latest changes
   
 ## **Recent Changes:**
-  * March 29th: Added handling of executions
-  * March 27th: Added handling of object searches
+  * March 29th: Initial Release,not yet functional
+
